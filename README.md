@@ -36,8 +36,7 @@ As it's made purely with HTML and CSS, dynamic features from the original Netfli
 Contributing :
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any potential changes or fixes.
 
-License :
-This project is open source and available under the MIT License.
+
 
 # 💫 About Me:
 Hi! I'm Tanish Srinivasan, a web developer and a tech enthusiast with a passion for crafting clean, user-friendly, and responsive web interfaces. My journey in web development started with small projects like this Netflix Clone, which allowed me to hone my skills in HTML and CSS while recreating the visual essence of popular websites.
